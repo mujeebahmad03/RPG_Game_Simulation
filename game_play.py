@@ -1,7 +1,3 @@
-from player import Player
-from enemy import Enemy
-from item import Item
-
 class Game:
     def __init__(self):
         self.players = []

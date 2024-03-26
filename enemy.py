@@ -1,6 +1,5 @@
 import random
 from game_entity import GameEntity
-from player import Player
 
 class Enemy(GameEntity):
     player_defense_use_left = 3
